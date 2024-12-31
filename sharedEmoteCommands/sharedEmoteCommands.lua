@@ -32,6 +32,8 @@ AddEventHandler("onResourceStart", function(resourceName)
 end)
 
 
+-- Need any support, scripts, liverys or anything join our discord! https://discord.gg/gxcZgsghzn
+
 -- ██████╗ ██╗███╗   ██╗ ██████╗  ██████╗ 
 --██╔══██╗██║████╗  ██║██╔════╝ ██╔═══██╗
 --██║  ██║██║██╔██╗ ██║██║  ███╗██║   ██║

@@ -10,6 +10,7 @@ dependencies {
 }
 
 client_script 'sharedEmoteCommands.lua'
+client_script 'client.lua'
 
 -- Need any support, scripts, liverys or anything join our discord! https://discord.gg/gxcZgsghzn
 
